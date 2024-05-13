@@ -1,4 +1,4 @@
-[![MasterHead]([https://github.com/ajaychalise/ajaychalise/blob/main/GitHubHeader1.png])](https://github.com/ajaychalise/)
+[![MasterHead](https://github.com/ajaychalise/ajaychalise/blob/main/GitHubHeader1.png)](https://github.com/ajaychalise/)
 
 <h3 align="center">A Software Engineering Student from 🇳🇵.</h3>
 
