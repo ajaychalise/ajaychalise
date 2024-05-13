@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://rishavchanda.io)
+[![MasterHead]([https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://github.com/ajaychalise/ajaychalise/blob/main/GitHubHeader1.png))](https://github.com/ajaychalise/)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
