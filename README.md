@@ -1,8 +1,8 @@
-[![MasterHead]([https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://github.com/ajaychalise/ajaychalise/blob/main/GitHubHeader1.png))](https://github.com/ajaychalise/)
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![MasterHead]([https://github.com/ajaychalise/ajaychalise/blob/main/GitHubHeader1.png])](https://github.com/ajaychalise/)
 
 <h3 align="center">A Software Engineering Student from 🇳🇵.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaychalise&label=Profile%20views&color=0e75b6&style=flat" alt="ajaychalise" /> </p>
 
